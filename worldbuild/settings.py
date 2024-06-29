@@ -130,6 +130,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Bot settings
-TOKEN = '7419160037:AAGT0JzWGr1g8qDNycnuntJLiVoAKzyYwag'
-URL = 'https://5e84-79-159-99-217.ngrok-free.app/getpost/' 
+TOKEN = '*********'
+URL = '*******/getpost/' 
 TELEGRAM_API_URL = f'https://api.telegram.org/bot{TOKEN}/'
